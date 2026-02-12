@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wfs-character-creator/static/css/main.3c47615c.css",
-    "main.js": "/wfs-character-creator/static/js/main.282e5bfb.js",
+    "main.js": "/wfs-character-creator/static/js/main.4bbea169.js",
     "static/media/card_background.png": "/wfs-character-creator/static/media/card_background.db4cbce67366b56abbb0.png",
     "index.html": "/wfs-character-creator/index.html",
     "main.3c47615c.css.map": "/wfs-character-creator/static/css/main.3c47615c.css.map",
-    "main.282e5bfb.js.map": "/wfs-character-creator/static/js/main.282e5bfb.js.map"
+    "main.4bbea169.js.map": "/wfs-character-creator/static/js/main.4bbea169.js.map"
   },
   "entrypoints": [
     "static/css/main.3c47615c.css",
-    "static/js/main.282e5bfb.js"
+    "static/js/main.4bbea169.js"
   ]
 }
